@@ -1,1 +1,2 @@
-git init - command to create git repositiory
+git init -New command created into git repositiory
+ vi - Its used to edit the file(command line interface editor)
